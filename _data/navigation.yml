@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Casts
+  url: /casts/
+  excerpt: "Dice I’ve casted. Includes successes and mishaps. Maybe mostly mishaps."
+  image: 300x200.gif
+
+- title: Made Mistakes
+  url: http://mademistakes.com  

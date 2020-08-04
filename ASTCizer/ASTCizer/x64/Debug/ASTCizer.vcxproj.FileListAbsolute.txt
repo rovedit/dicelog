@@ -1,0 +1,2 @@
+C:\Users\Frieder\BA\ASTCizer\ASTCizer\x64\Debug\ASTCizer.exe
+C:\Users\Frieder\BA\ASTCizer\ASTCizer\x64\Debug\ASTCizer.pdb

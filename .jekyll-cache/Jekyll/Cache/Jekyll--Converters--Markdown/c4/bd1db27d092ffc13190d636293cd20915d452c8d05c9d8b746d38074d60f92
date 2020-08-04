@@ -1,0 +1,23 @@
+I"ª<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/howto/i-dont-have-any-idea/" title="title" class="post-teaser"><img src="http://localhost:4000/images/" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-26" itemprop="datePublished">June 26, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/howto/i-dont-have-any-idea/">title</a></h2>
+  <p class="post-excerpt" itemprop="description">I donâ€™t have any idea!
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="http://localhost:4000/blogging/first/" title="title" class="post-teaser"><img src="http://localhost:4000/images/" alt="teaser" itemprop="image" /></a>
+  <p class="entry-date date published"><time datetime="2020-06-26" itemprop="datePublished">June 26, 2020</time></p>
+  <h2 class="post-title" itemprop="name"><a href="http://localhost:4000/blogging/first/">title</a></h2>
+  <p class="post-excerpt" itemprop="description">Well, this is a post!
+</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET
